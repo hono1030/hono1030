@@ -8,7 +8,7 @@ Hi! I’m a full-stack engineer who enjoys building user-friendly interfaces and
 
 Mugi is a bilingual platform that helps pet owners find and book trusted local pet sitters, ensuring a seamless and flexible experience. I participated in the project as a Full Stack Engineer. 
 
-Check it out at [mugi.pet](https://mugi.pet)! The source code is public:
+Check it out at [Mugi.pet](https://mugi.pet)! The source code is public:
 * Frontend: https://github.com/cc-pet-sitter/frontend
 * Backend: https://github.com/cc-pet-sitter/backend
 
