@@ -1,6 +1,6 @@
 ## ✨ About me
 
-Hi, I'm Honoka Noguchi! 
+Hi, I'm Honoka Noguchi 👋
 
 I’m a full-stack engineer who enjoys building user-friendly interfaces and making products easier to use. I’ve worked with technologies like React, TypeScript, Node.js, and Python, and I’m comfortable handling both front-end and back-end tasks. 
 
