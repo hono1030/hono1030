@@ -1,6 +1,6 @@
 ## ✨ About me
 
-Hi! I’m a full-stack engineer who enjoys building user-friendly interfaces and making products easier to use. I’ve worked with technologies like React, TypeScript, Node.js, and Python, and I’m comfortable handling both front-end and back-end tasks. My background in the fintech industry taught me how to understand both user needs and business goals, and I’m excited to keep growing as an engineer and contribute to meaningful projects.
+Hi, I'm Honoka Noguchi! I’m a full-stack engineer who enjoys building user-friendly interfaces and making products easier to use. I’ve worked with technologies like React, TypeScript, Node.js, and Python, and I’m comfortable handling both front-end and back-end tasks. My background in the fintech industry taught me how to understand both user needs and business goals, and I’m excited to keep growing as an engineer and contribute to meaningful projects.
 
 ## ✨ Things I made
 
